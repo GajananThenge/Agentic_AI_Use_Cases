@@ -1,1 +1,3 @@
 *.env
+sql_gene_venv
+*.conda

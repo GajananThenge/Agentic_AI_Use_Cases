@@ -5,3 +5,5 @@ langchain-text-splitters
 langchain_groq
 faiss-cpu
 groq
+langgraph
+langchain-ollama
